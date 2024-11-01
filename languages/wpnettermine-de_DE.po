@@ -1,0 +1,208 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPNetTermine v0.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-10-16 13:26:50+0000\n"
+"Last-Translator: Marc Nilius <mail@marcnilius.de>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: admin/class-wpnettermine-admin.php:176
+#@ wpnettermine
+msgid "WPNetTermine Settings"
+msgstr "WPNetTermine-Einstellungen"
+
+#. translators: plugin header field 'Name'
+#: admin/class-wpnettermine-admin.php:177
+#: wpnettermine.php:0
+#@ wpnettermine
+msgid "WPNetTermine"
+msgstr "WPNetTermine"
+
+#: admin/class-wpnettermine-admin.php:226
+#@ wpnettermine
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: admin/views/admin.php:18
+#@ wpnettermine
+msgid "Settings &rsaquo; WPNetTermine"
+msgstr "Einstellungen &rsaquo; WPNetTermine"
+
+#: admin/views/admin.php:24
+#@ wpnettermine
+msgid "Please insert your Object ID of NetTermine here. All other settings are optional."
+msgstr "Bitte geben Sie hier die Haus-ID von NetTermine an. Alle anderen Einstellungen sind optional."
+
+#: admin/views/admin.php:27
+#@ wpnettermine
+msgid "Add the shortcode"
+msgstr "Fügen Sie den Shortcode"
+
+#: admin/views/admin.php:28
+#@ wpnettermine
+msgid "on a page of this WordPress instance to show the NetTermine form there."
+msgstr "auf einer Seite dieser WordPress-Instanz ein, um das NetTermine-Formular auf dieser Seite anzuzeigen."
+
+#: admin/views/admin.php:41
+#@ wpnettermine
+msgid "Object ID"
+msgstr "Haus-ID"
+
+#: admin/views/admin.php:52
+#@ wpnettermine
+msgid "The Object ID is available after your registration for the NetTermine service."
+msgstr "Die Haus-ID erhalten Sie bei der Anmeldung zu NetTermine."
+
+#: admin/views/admin.php:59
+#@ wpnettermine
+msgid "Type of integration"
+msgstr "Art der Integration"
+
+#: admin/views/admin.php:63
+#@ wpnettermine
+msgid "Include as HTML (default)"
+msgstr "Als HTML einfügen (Standard)"
+
+#: admin/views/admin.php:64
+#@ wpnettermine
+msgid "Include as IFrame"
+msgstr "Als IFrame einfügen"
+
+#: admin/views/admin.php:74
+#@ wpnettermine
+msgid "IFrame width"
+msgstr "Breite des IFrames"
+
+#: admin/views/admin.php:86
+#@ wpnettermine
+msgid "If you choose \"Include as IFrame\", please insert the width of the IFrame in pixels."
+msgstr "Wenn Sie \"Als Iframe einfügen\" gewählt haben, geben Sie hier die Breite des Iframes in Pixeln an."
+
+#: admin/views/admin.php:93
+#@ wpnettermine
+msgid "IFrame height"
+msgstr "Höhe des IFrames"
+
+#: admin/views/admin.php:105
+#@ wpnettermine
+msgid "If you choose \"Include as IFrame\", please insert the height of the IFrame in pixels."
+msgstr "Wenn Sie \"Als IFrame einfügen\" gewählt haben, geben Sie hier die Höhe des IFrames in Pixeln an."
+
+#: admin/views/admin.php:112
+#@ wpnettermine
+msgid "Individual styles"
+msgstr "Individuelle Styles"
+
+#: admin/views/admin.php:117
+#@ wpnettermine
+msgid "If you choose \"Include as HTML\" you can add additional css styles here for the NetTermine form."
+msgstr "Wenn Sie \"Einfügen als HTML\" gewählt haben, können Sie hier zusätzliche CSS-Angaben für das NetTermine-Formular machen."
+
+#: admin/views/admin.php:134
+#@ wpnettermine
+msgid "HausManager and NetTermine"
+msgstr "HausManager und NetTermine"
+
+#: admin/views/admin.php:137
+#@ wpnettermine
+msgid "NetTermine and HausManager are products of"
+msgstr "NetTermine und HausManager sind Produkte der"
+
+#: admin/views/admin.php:139
+#@ wpnettermine
+msgid "Please contact them for all questions regarding these products."
+msgstr "Bitte kontaktieren Sie sie für alle Fragen bezüglich dieser Produkte."
+
+#: admin/views/admin.php:142
+#@ wpnettermine
+msgid "WPNetTermine (this plugin) is not a product of Computer-L.A.N. and not associated with them in any way."
+msgstr "WPNetTermine (dieses Plugin) ist kein Produkt der Computer-L.A.N. und mit dieser Firma in keiner Weise verbunden."
+
+#: admin/views/admin.php:145
+#@ wpnettermine
+msgid "For help with this plugin please always refer to the author of the plugin (see below)."
+msgstr "Für Hilfe zu diesem Plugin, wenden Sie sich bitte immer an den Auto des Plugins (siehe unten)."
+
+#: admin/views/admin.php:153
+#@ wpnettermine
+msgid "About the author"
+msgstr "Über den Autor"
+
+#: admin/views/admin.php:156
+#@ wpnettermine
+msgid "Marc Nilius is a software engineer from Germany."
+msgstr "Marc Nilius ist Software-Entwickler aus Deutschland."
+
+#: admin/views/admin.php:157
+#@ wpnettermine
+msgid "Find out more about his projects on his website "
+msgstr "Mehr über seine Projekte gibt es auf seiner Website "
+
+#: admin/views/admin.php:159
+#@ wpnettermine
+msgid ", via Twitter ("
+msgstr ", via Twitter ("
+
+#: admin/views/admin.php:160
+#@ wpnettermine
+msgid ") or on Google+ ("
+msgstr ") oder auf Google+ ("
+
+#: admin/views/admin.php:161
+#@ wpnettermine
+msgid ")."
+msgstr ")."
+
+#: admin/views/admin.php:164
+#@ wpnettermine
+msgid "Contact him via E-Mail: "
+msgstr "Kontakt via E-Mail: "
+
+#. translators: plugin header field 'PluginURI'
+#: wpnettermine.php:0
+#@ wpnettermine
+msgid "http://www.marcnilius.de"
+msgstr ""
+
+#. translators: plugin header field 'Description'
+#: wpnettermine.php:0
+#@ wpnettermine
+msgid "WordPress integration for the NetTermine module of HausManager (www.hausmanager.de)."
+msgstr "WordPress-Integration für das NetTermine-Modul des HausManagers (www.hausmanager.de)."
+
+#. translators: plugin header field 'Author'
+#: wpnettermine.php:0
+#@ wpnettermine
+msgid "Marc Nilius"
+msgstr "Marc Nilius"
+
+#. translators: plugin header field 'Version'
+#: wpnettermine.php:0
+#@ wpnettermine
+msgid "0.0.1"
+msgstr "0.0.1"
+
+#: admin/views/admin.php:67
+#@ wpnettermine
+msgid "Please choose how the NetTermine form should be integrated. For a full integration including your CSS styles, choose \"Insert as HTML\"."
+msgstr "Bitte wählen Sie, wie das NetTermine-Formular eingefügt werden soll. Wenn Sie eine vollständige Integration inklusive der Nutzung Ihrer CSS-Angaben wünschen, wählen Sie \"Einfügen als HTML\"."
+
+#: admin/views/admin.php:118
+#@ wpnettermine
+msgid "The form can be referenced by the ID #nettermine."
+msgstr "Das Formular kann über die ID #nettermine angesprochen werden."
+
